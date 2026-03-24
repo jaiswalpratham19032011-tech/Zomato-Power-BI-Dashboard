@@ -1,49 +1,42 @@
 # Zomato-Power-BI-Dashboard
 An interactive Power BI Dashboard analyzing Zomato's restaurant data. Features insights on food delivery trends, customer ratings, pricing, and cuisines to help understand market performance.
-# Zomato-Power-BI-Dashboard
-An interactive Power BI Dashboard analyzing Zomato's restaurant data. Features insights on food delivery trends, customer ratings, pricing, and cuisines to help understand market performance.
-**📌 Project Overview**
-This project is a comprehensive data visualization dashboard created using Power BI to analyze Zomato's restaurant ecosystem. The primary objective is to derive actionable insights into restaurant performance, customer preferences, and pricing trends to facilitate better business decision-making.
+# 📊 Zomato Data Analysis Dashboard
+An interactive and comprehensive Power BI Dashboard developed to analyze Zomato's restaurant data. This project provides deep insights into business performance, customer preferences, and city-wide trends.
+
+# 🚀 Project Overview
+The goal of this project is to transform raw Zomato data into actionable insights. It helps stakeholders understand sales distribution, rating patterns, and popular cuisines across different regions.
+
+# 🛠️ Tools & Technologies Used
+# Power BI Desktop: For data modeling and visualization.
+
+# Power Query: Used for data cleaning and ETL (Extract, Transform, Load) processes.
+
+# DAX (Data Analysis Expressions): Created custom measures and calculated columns for complex KPIs.
+
+# Dataset: Cleaned CSV/Excel data containing restaurant details, locations, and ratings.
+
+# 🔑 Key Insights & Features
+# Executive Summary: High-level view of Total Orders, Total Revenue, and Average Ratings.
+
+# City Analysis: Breakdown of restaurant performance across different cities to identify top-performing markets.
+
+# Cuisine Trends: Analysis of which food types/cuisines are most popular among users.
+
+# User Feedback: Visual representation of ratings and reviews to measure customer satisfaction.
+
+# Interactive Slicers: Allows users to filter data by City, Locality, Price Range, and Online Delivery availability.
+
+# 📁 Repository Structure
+# Zomato Dashboard.pbix: The main Power BI project file.
 
 
-**🚀 Key Features**
-**Comprehensive Overview:** Detailed metrics on total restaurants and their distribution across various cities.
-
-**Rating Analysis:** In-depth analysis of customer ratings, sentiment, and review patterns.
-
-**Cuisine Insights:** Identification of popular cuisines and their market penetration.
-
-**Cost Analysis:** Visualization of the 'Average Cost for Two' and segmentation based on pricing brackets.
-
-**Interactive Filters:** User-friendly slicers for City, Rating, and Online Delivery status for customized data exploration.
-
-
-**🛠️ Tools & Technologies Used**
-**Power BI Desktop:** Used for dashboard architecture and data visualization.
-
-**Power Query:** Leveraged for data cleaning, transformation, and ETL processes.
-
-**DAX (Data Analysis Expressions):** Implemented for creating complex measures and calculated columns.
-
-**Dataset:** Zomato restaurant dataset (CSV/Excel).
-
-
-**📈 Key Business Insights**
-**Market Reach:** Identified top cities with the highest restaurant density and Zomato footprint.
-
-**Delivery Trends:** Analyzed the ratio of restaurants offering online delivery vs. dine-in only.
-
-**Price vs. Quality:** Evaluated the correlation between high-end pricing and customer satisfaction ratings.
-
-**Popularity Metrics:** Highlighted restaurants with the highest engagement based on total votes.
-
-
-**📂 How to Access the Project**
-Clone or download this repository to your local machine.
+# ⚙️ How to Run the Project
+Clone this repository to your local machine.
 
 Ensure you have Power BI Desktop installed.
 
-Open the .pbix file to interact with the live dashboard and explore the data.
+Open the Zomato Dashboard.pbix file.
 
-Developed by: Pratham Jaiswal
+If the data doesn't load automatically, update the data source settings to point to the local dataset file.
 
+Developer: Pratham Jaiswal
