@@ -7,24 +7,33 @@ An interactive and comprehensive Power BI Dashboard developed to analyze Zomato'
 The goal of this project is to transform raw Zomato data into actionable insights. It helps stakeholders understand sales distribution, rating patterns, and popular cuisines across different regions.
 
 # 🛠️ Tools & Technologies Used
-# Power BI Desktop: For data modeling and visualization.
+# Power BI Desktop:
+For data modeling and visualization.
 
-# Power Query: Used for data cleaning and ETL (Extract, Transform, Load) processes.
+# Power Query: 
+Used for data cleaning and ETL (Extract, Transform, Load) processes.
 
-# DAX (Data Analysis Expressions): Created custom measures and calculated columns for complex KPIs.
+# DAX (Data Analysis Expressions):
+Created custom measures and calculated columns for complex KPIs.
 
-# Dataset: Cleaned CSV/Excel data containing restaurant details, locations, and ratings.
+# Dataset: 
+Cleaned CSV/Excel data containing restaurant details, locations, and ratings.
 
 # 🔑 Key Insights & Features
-# Executive Summary: High-level view of Total Orders, Total Revenue, and Average Ratings.
+# Executive Summary:
+High-level view of Total Orders, Total Revenue, and Average Ratings.
 
-# City Analysis: Breakdown of restaurant performance across different cities to identify top-performing markets.
+# City Analysis: 
+Breakdown of restaurant performance across different cities to identify top-performing markets.
 
-# Cuisine Trends: Analysis of which food types/cuisines are most popular among users.
+# Cuisine Trends:
+Analysis of which food types/cuisines are most popular among users.
 
-# User Feedback: Visual representation of ratings and reviews to measure customer satisfaction.
+# User Feedback: 
+Visual representation of ratings and reviews to measure customer satisfaction.
 
-# Interactive Slicers: Allows users to filter data by City, Locality, Price Range, and Online Delivery availability.
+# Interactive Slicers: 
+Allows users to filter data by City, Locality, Price Range, and Online Delivery availability.
 
 # 📁 Repository Structure
 # Zomato Dashboard.pbix: The main Power BI project file.
